@@ -1,9 +1,9 @@
 {
-  "name": "electron-vite-template",
-  "version": "1.0.0",
+  "name": "moyu",
+  "version": "0.0.0",
   "main": "./dist/electron/main/main.js",
   "author": "sky <https://github.com/umbrella22>",
-  "description": "electron-vite-template project",
+  "description": "默余 project",
   "license": "MIT",
   "scripts": {
     "dev": "esno .electron-vite/dev-runner.ts",

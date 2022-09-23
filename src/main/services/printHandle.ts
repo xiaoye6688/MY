@@ -31,7 +31,8 @@ export function openPrintDemoWindow() {
     titleBarStyle: config.IsUseSysTitle ? 'default' : 'hidden',
     ...Object.assign(otherWindowConfig, {})
   })
-  win.loadURL(printURL)
+  // win.loadURL(printURL)
+  win.loadURL('http://blog.xiaoye6688.xyz')
   win.on('ready-to-show', () => {
     win.show()
   })

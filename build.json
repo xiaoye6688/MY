@@ -8,8 +8,8 @@
     }
   ],
   "afterPack": ".electron-vite/afterPack.js",
-  "productName": "electron-vite-template",
-  "appId": "org.sky.electron-vite-template",
+  "productName": "默余",
+  "appId": "org.sky.MoYu",
   "directories": {
     "output": "build"
   },

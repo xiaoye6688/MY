@@ -8,12 +8,14 @@
 </template>
 
 <script setup lang="ts">
+
 import { computed } from "vue";
 import { ElConfigProvider } from "element-plus";
 import { i18n } from "./i18n";
 import TitleBar from "./components/common/TitleBar.vue";
 
 const i18nt = computed(() => i18n.global.messages[i18n.global.locale].el);
+
 </script>
 
 <style></style>

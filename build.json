@@ -32,10 +32,10 @@
     ]
   },
   "mac": {
-    "icon": "build/icons/icon.icns"
+    "icon": "build/icons/moyulogo.icns"
   },
   "win": {
-    "icon": "build/icons/icon.ico",
+    "icon": "build/icons/moyulogo.ico",
     "target": "nsis"
   },
   "linux": {
